@@ -1,5 +1,5 @@
 ﻿## Interface: 11200
-## Version: 1.0
+## Version: 1.1
 ## Title: Postal Returned |cff7fff7f -Ace2-|r
 ## Notes: Improved mailbox functionality
 ## Notes-zhCN: 批量邮件收取发送

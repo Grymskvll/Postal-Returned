@@ -575,6 +575,7 @@ function Postal_Inbox_OpenSelected(mode)
 	Postal.open.start(selected, function()
 		Postal:Inbox_DisableClicks(false)
 		PostalInboxFrame.num = false
+		Postal_Inbox_UpdateButtons()
 	end, mode)
 	Postal_SelectedItems = {}
 end
